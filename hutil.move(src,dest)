@@ -1,0 +1,541 @@
+[33mcommit 48ec8ad8eeef50255f7cd394edf79c380cd90a55[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: ShubhamKPandey <divyam.panday@gmail.com>
+Date:   Mon Dec 28 16:43:38 2020 +0530
+
+    Architectural dataset2
+
+[33mcommit 33910c58a73cad1b9956042f86ea3138bef01a68[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ShubhamKPandey <divyam.panday@gmail.com>
+Date:   Mon Dec 28 13:18:10 2020 +0530
+
+    Architectural dataset
+
+[33mcommit 0f588b6ed51b120e3a9c4e3bb6dc08b6ec5f1737[m
+Author: tejasvaidhyadev <iamtejasvaidhya@gmail.com>
+Date:   Mon Dec 28 13:35:35 2020 +0530
+
+    pretrained zebra2hours cyclic gan
+
+[33mcommit dd49fd396eea76379f9db439f1b7e68ed39c0300[m
+Author: tejasvaidhyadev <iamtejasvaidhya@gmail.com>
+Date:   Sat Dec 26 18:29:38 2020 +0530
+
+    updated image
+
+[33mcommit 5838c022546ad71f57c27356d5e36cad6122b5b2[m
+Author: tejasvaidhyadev <iamtejasvaidhya@gmail.com>
+Date:   Sat Dec 26 17:25:22 2020 +0530
+
+    addinge pretrianed train images
+
+[33mcommit d534f87ee67b2dacf4ac833e653b3fae252a097a[m
+Author: tejasvaidhyadev <iamtejasvaidhya@gmail.com>
+Date:   Sat Dec 26 16:53:58 2020 +0530
+
+    adding images
+
+[33mcommit 592aaa31562e04f062b11ce79ef67f0735e63be2[m
+Author: tejasvaidhyadev <iamtejasvaidhya@gmail.com>
+Date:   Sat Dec 26 16:50:56 2020 +0530
+
+    adding result
+
+[33mcommit f13aab8148bd5f15b9eb47b690496df8dadbab0c[m
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Thu Oct 15 18:26:07 2020 -0400
+
+    Update test.py
+
+[33mcommit c94161791aaf050dfffb4f2b2fac815997b37aa6[m
+Merge: f6101ef 0559e26
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Sat Sep 12 17:34:54 2020 -0400
+
+    Merge pull request #1147 from Ldpe2G/patch-1
+    
+    add new CycleGan implementation
+
+[33mcommit 0559e26e4bfe9cded3b53b295aafd90866ef6ac8[m
+Author: Liang Depeng <liangdepeng@gmail.com>
+Date:   Sat Sep 12 10:20:09 2020 +0800
+
+    add new CycleGan implementation
+
+[33mcommit f6101ef83396a495ea368e56276396be1151dc91[m
+Merge: 300e84a efa171e
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Sun Sep 6 14:36:14 2020 -0400
+
+    Merge pull request #1141 from wangyi111/patch-1
+    
+    Update README.md
+
+[33mcommit efa171eeff4753d4276f9ee0f833dfd3698f1fba[m
+Author: wangyi111 <35645723+wangyi111@users.noreply.github.com>
+Date:   Sat Sep 5 15:18:29 2020 +0200
+
+    Update README.md
+
+[33mcommit 300e84a78e77e22f08668180c65949971386175b[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Tue Aug 25 02:17:22 2020 -0400
+
+    update README
+
+[33mcommit 0fbb0e7ddcf6f70a6a3577e70e72b99416e06a2c[m
+Merge: 56e716f e6f4a24
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Tue Aug 25 00:06:21 2020 -0400
+
+    Merge pull request #1132 from ccccssx/replit-readme
+    
+    Add run on repl.it badge to README
+
+[33mcommit e6f4a24a18b502cd552c525f774508fb505ddf42[m
+Author: undefined <undefined>
+Date:   Mon Aug 24 19:41:20 2020 +0000
+
+    Add run on repl.it badge to README
+    
+    This pull request adds a  badge to the . This will allow users to easily run this repository in their browser, without having to set up an environment. You can learn more about Repl.it [here](https://repl.it).
+
+[33mcommit 56e716fa4732b1374b2d62be13d33fcbeced2105[m
+Merge: 4a42e66 6ea1138
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Sat Aug 8 03:31:54 2020 -0400
+
+    Merge pull request #1120 from 3288103265/patch-1
+    
+    Correct a spelling mistake
+
+[33mcommit 4a42e6688cc5a70a399c663c847388f4bd84a6c8[m
+Merge: b2108da ee2e6e9
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Sat Aug 8 03:29:59 2020 -0400
+
+    Merge pull request #1110 from Skuldur/master
+    
+    Changing import os.path to import os
+
+[33mcommit 6ea11388648057762ab9dcd3b0920d8261be4ff2[m
+Author: WangPenghui <34595906+3288103265@users.noreply.github.com>
+Date:   Sat Aug 8 15:13:27 2020 +0800
+
+    Correct a spelling mistake
+    
+     In line25, it should be ‘installed’ instead of 'installl' :)
+
+[33mcommit b2108dafd282f37bac671bbc6b2bb267f886ff31[m
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Tue Aug 4 21:33:39 2020 -0400
+
+    Update README.md
+
+[33mcommit 3c6977bcb6c077bc88d7da436dd453dead0127df[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Tue Aug 4 20:15:25 2020 -0400
+
+    update README
+
+[33mcommit 9e6fff7b7d5215a38be3cac074ca7087041bea0d[m
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Mon Aug 3 10:35:13 2020 -0400
+
+    Update README.md
+
+[33mcommit ed8cfaa3f7cec80f3c4d330401f85fbd1321129b[m
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Mon Aug 3 10:33:43 2020 -0400
+
+    Update README.md
+
+[33mcommit 9e486774129af563bbf3d034ea1bf5fc4522e7f3[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Sat Aug 1 19:40:52 2020 -0400
+
+    update README
+
+[33mcommit ee2e6e9d4b140ade14cd5ea51b81d7e50086d328[m
+Author: Sigurður Skúli Sigurgeirsson <siggiskuli@gmail.com>
+Date:   Sat Aug 1 11:46:58 2020 +0000
+
+    Changing import os.path to import os
+    
+    Importing both `os` and `os.path` is redundant since importing `os` will import `os.path` and importing `os.path` will also import the `os` module. So it's more clean and explicit to simply import `os` because that reflects better on what the import is actually doing.
+    
+    Reference: https://www.mail-archive.com/python-list@python.org/msg188236.html
+
+[33mcommit 7921099dd606d9356b3ab8b8ebf6679312f20679[m
+Author: Taesung Park <taesung89@gmail.com>
+Date:   Sat Aug 1 03:34:14 2020 +0000
+
+    Updated pytorch version to 1.4.0 in the installation scripts
+
+[33mcommit f5834b3ed339ec268f40cf56928234eed8dfeb92[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Sun Jul 19 18:49:30 2020 -0400
+
+    update qa regarding loss and metric
+
+[33mcommit fd29199c33bd95704690aaa16f238a4f8e74762c[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Sun Jul 19 18:32:13 2020 -0400
+
+    update lr in the begining of each epoch
+
+[33mcommit 80ba217d2fdb404858354c7954cc280f4d25f130[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Sun Jun 28 19:23:58 2020 -0400
+
+    update README
+
+[33mcommit 284a83f5955d20fc5bd2eea81ea56086655a50ee[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Fri Jun 26 12:33:37 2020 -0400
+
+    update README
+
+[33mcommit ebf2c791e7c94ff5ab72b7a35ad97135af275b95[m
+Merge: 5fd11c2 c85ff4a
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Sun Jun 14 23:17:26 2020 -0400
+
+    Merge pull request #1060 from CharlesDove/master
+    
+    Parallelized combine_A_and_B script
+
+[33mcommit c85ff4a238b085f9e71e9abd83f0337158c8a42d[m
+Author: CharlesDove <chadove98@gmail.com>
+Date:   Wed Jun 10 12:38:37 2020 -0400
+
+    clarified no_multiprocessing variable/flag name and added if statement to close pool
+
+[33mcommit 0c096f3fccb78c56fab226aa36392fd68995c35c[m
+Author: CharlesDove <chadove98@gmail.com>
+Date:   Wed Jun 10 12:16:16 2020 -0400
+
+    Added no_multiprocess flag and single CPU support
+
+[33mcommit 66ec03d22ea1849242f3f0046f16cd19b7b07803[m
+Author: CharlesDove <chadove98@gmail.com>
+Date:   Tue Jun 9 14:07:33 2020 -0400
+
+    further cleaning for combine_A_and_B script
+
+[33mcommit a4a8002758b4fbdcab0c7702e284c22391e2bed5[m
+Author: CharlesDove <chadove98@gmail.com>
+Date:   Tue Jun 9 13:57:19 2020 -0400
+
+    parallelize combine_A_and_B script
+
+[33mcommit 5fd11c27a1b9a5d79ef4ab879146c6b065f6e2a8[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Sat May 23 20:24:51 2020 -0400
+
+    remove unused flag ntest
+
+[33mcommit 482947685f2e6fdf586edffc6154041951db89fe[m
+Author: junzhu <junzhu@adobe.com>
+Date:   Thu May 7 13:53:53 2020 -0400
+
+    update README
+
+[33mcommit cb2c4f89de5a2ef454d146c1aed97300d59abc7a[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Mon Apr 13 17:56:17 2020 -0400
+
+    update qa
+
+[33mcommit 88f16d1364d7cd9a5c55551531cde0d0f956172a[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Fri Apr 10 14:09:46 2020 -0400
+
+    update qa
+
+[33mcommit eb5d71f6023c9106a711c736d99bdce67095e379[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Fri Apr 10 13:55:23 2020 -0400
+
+    update Q&A
+
+[33mcommit c0720d45466fdfeb96f9e079a7cbb5028fdf8269[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Thu Apr 2 19:09:44 2020 -0400
+
+    update notes for cityscapes evaluation
+
+[33mcommit fb5f30e2f590d1a50d1b2be6c3a7ae2f0ed48376[m
+Merge: 3b8170b c9f5826
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Wed Apr 1 14:27:15 2020 -0400
+
+    Merge pull request #973 from salisbury-espinosa/master
+    
+    Update batch_hed.py
+
+[33mcommit c9f5826321a3a4990bc4ae04f8462f3ee2814cce[m
+Author: Salisbury <salisbury.espinosa@gmail.com>
+Date:   Wed Apr 1 09:46:52 2020 +0300
+
+    Update batch_hed.py
+    
+    clone of https://github.com/phillipi/pix2pix/pull/191
+
+[33mcommit 3b8170b9acae5a556148e769104cf0b3b0912e8b[m
+Merge: 2c5f2b1 8600c62
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Mon Mar 2 13:04:42 2020 -0500
+
+    Merge pull request #942 from cmacho/patch-1
+    
+    fix typo
+
+[33mcommit 8600c626b9ee74aafa3055b2a21c339b0d4aaebd[m
+Author: cmacho <58872556+cmacho@users.noreply.github.com>
+Date:   Mon Mar 2 14:07:38 2020 +0100
+
+    fix typo
+
+[33mcommit 70dd2825aa6639b4e69f710a5fcf357ba2715d2c[m
+Author: cmacho <58872556+cmacho@users.noreply.github.com>
+Date:   Mon Mar 2 13:42:05 2020 +0100
+
+    fix typo
+
+[33mcommit 2c5f2b14a577753b6ce40716e42dc28b21ed775a[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Wed Feb 26 02:20:17 2020 -0800
+
+    improve _scale_width function
+
+[33mcommit e50fccc53944b6f2e710307366254f70e9c48f66[m
+Author: taesungp <taesung89@gmail.com>
+Date:   Sat Feb 22 01:28:46 2020 -0800
+
+    Updated Dockerfile @arbrog
+    
+    Updated Dockerfile to set python3 as default, following suggestion of @arbrog
+    https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/issues/666#issuecomment-588537984
+
+[33mcommit 8cda06f7c36b012769efac63adc1a68586b8fb85[m
+Merge: 29bbc96 d04c8e7
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Mon Feb 17 22:07:12 2020 -0500
+
+    Merge pull request #919 from cccntu/cccntu-patch-1
+    
+    fix typo
+
+[33mcommit d04c8e723cf5f755d2ccaa6ab96e7c25c207a726[m
+Author: Jonathan Chang <31893406+cccntu@users.noreply.github.com>
+Date:   Mon Feb 17 15:18:15 2020 +0800
+
+    fix typo
+
+[33mcommit 29bbc96f26da068fb809f8080245ff3e9216a92c[m
+Merge: 2595573 aee24bd
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Thu Dec 19 14:09:22 2019 -0500
+
+    Merge pull request #884 from lmxyy/master
+    
+    fix a typo in README about the PyTorch url
+
+[33mcommit aee24bd1d120d2542bd102627a2e315c1eb749e3[m
+Author: Lmxyy <lmxyy1999@foxmail.com>
+Date:   Wed Dec 18 20:22:28 2019 -0500
+
+    fix a typo in README about the PyTorch url
+
+[33mcommit 2595573a7c9fd5bb389a949a3f1b2f06970a4eb8[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Tue Dec 17 18:31:41 2019 -0500
+
+    change niter to n_epochs
+
+[33mcommit b21e552cf26bc6dbafd8161f77662367804a13c4[m
+Merge: eb6e7dc 9db8a82
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Mon Dec 9 18:44:22 2019 -0500
+
+    Merge pull request #871 from nat-chan/patch-1
+    
+    fix typo
+
+[33mcommit 9db8a821d0b5a71291aeacd039d646eea1a397b8[m
+Author: mathbbN <nat-chan@users.noreply.github.com>
+Date:   Mon Dec 9 15:04:37 2019 +0900
+
+    fix typo
+
+[33mcommit eb6e7dce7940033d84791b87c1a9670e67fa968d[m
+Merge: e19c14d fc39280
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Thu Nov 21 19:06:37 2019 -0500
+
+    Merge pull request #854 from zsdonghao/patch-1
+    
+    update other implementation
+
+[33mcommit fc3928079b83dc773031da6673939df5bea1f326[m
+Author: Hao <dhsig552@163.com>
+Date:   Thu Nov 21 19:32:49 2019 +0800
+
+    update other implementation
+    
+    The latest implementation for TensorFlow2.0 and TensorLayer 2.0
+
+[33mcommit e19c14de86a6bdabe0194e6e4eec0e1c917043ac[m
+Merge: 9617643 7ff4e98
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Wed Nov 20 23:06:26 2019 -0500
+
+    Merge pull request #851 from onsoho/patch-2
+    
+    Broken links and minimal grammar fixed.
+
+[33mcommit 7ff4e986548559806f972bfdc19b2d694effecfc[m
+Author: Fernando Reyes <44689425+onsoho@users.noreply.github.com>
+Date:   Tue Nov 19 19:49:55 2019 -0700
+
+    Update README_es.md
+    
+    Broken links and minimal grammar fixed.
+
+[33mcommit 9617643c1d8fccc8a2f7b4f9e5c46238b0f65693[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Tue Nov 19 15:59:26 2019 -0500
+
+    move spanish translated README to doc
+
+[33mcommit 8a9d8d4308cb5abb052e72f1ae11f103ffe885f0[m
+Merge: 1c733f5 7441d46
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Tue Nov 19 14:56:15 2019 -0500
+
+    Merge pull request #844 from onsoho/patch-1
+    
+    Readme Spanish Translate
+
+[33mcommit 7441d462876f640e8342de679e772b39ce3301e3[m
+Author: Fernando Reyes <44689425+onsoho@users.noreply.github.com>
+Date:   Sun Nov 17 20:16:51 2019 -0700
+
+    Readme Spanish Translate
+    
+    This translation was written carefully and verified by a Spanish speaker.
+
+[33mcommit 1c733f5bd7a3aff886403a46baada1db62e2eca8[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Wed Nov 13 12:59:52 2019 -0500
+
+    add TIFF image format
+
+[33mcommit 809f9c9dc5de21ef44ec2540738285474764c20f[m
+Merge: bf013b8 23e1109
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Tue Nov 12 18:08:42 2019 -0500
+
+    Merge pull request #836 from rubabredwan/patch-1
+    
+    Fixed pix2pix Google Colab and Code links
+
+[33mcommit 23e11092f0193d4c86ac0252905d5c965131bcd5[m
+Author: Rubab Redwan <rubabredwan@gmail.com>
+Date:   Tue Nov 12 11:17:50 2019 +0600
+
+    Fixed pix2pix Google Colab and Code links
+
+[33mcommit bf013b8e72eb5851694e7f99747fe821488b0c6e[m
+Merge: e5302e8 2c53879
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Mon Nov 4 16:32:10 2019 -0500
+
+    Merge pull request #823 from eickenberg/patch-2
+    
+    docstring typo in colorization_dataset.py
+
+[33mcommit 2c538793ab584b0694162a0ef70255c4f75e9ab0[m
+Author: eickenberg <eickenberg@users.noreply.github.com>
+Date:   Sun Nov 3 14:54:19 2019 -0800
+
+    docstring typo in colorization_dataset.py
+
+[33mcommit e5302e8a8bd2634a2edd7f13a23dee7c4c0f7cbf[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Wed Oct 23 17:58:35 2019 -0400
+
+    update QA and tips
+
+[33mcommit bae31ec3b6270765bafc80c01d817a6ec6917e0e[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Thu Oct 17 14:17:12 2019 -0400
+
+    add opt.load_iter to the test code
+
+[33mcommit ae74521cf15751d21f1b62463486c4f64ee1b219[m
+Merge: b463f3e d7d31d0
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Wed Oct 16 18:52:18 2019 -0400
+
+    Merge branch 'master' of https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+
+[33mcommit b463f3ef1607adaf17fd48cdaf2c3a5464a9a3d1[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Wed Oct 16 18:52:05 2019 -0400
+
+    fix visualizer reset
+
+[33mcommit d7d31d01b6b702b46c135e04383fd1017fa2d770[m
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Fri Oct 11 17:52:12 2019 -0400
+
+    Update qa.md
+
+[33mcommit 3d89d7fbb14e4b675b1eeb59416aaf08eba113ef[m
+Author: Jun-Yan Zhu <junzhu@adobe.com>
+Date:   Mon Oct 7 16:03:16 2019 -0400
+
+    add colab notebook
+
+[33mcommit 53dcbdb11c1076fdaaa7613947e2a7c2cf51b16c[m
+Merge: 267aca8 7c6c648
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Mon Oct 7 14:29:44 2019 -0400
+
+    Merge pull request #783 from bkkaggle/master
+    
+    Colab quickstarts for CycleGAN and Pix2Pix
+
+[33mcommit 267aca8489b66a0110aad862c9572226112873bd[m
+Author: junyanz <junyanzhu89@gmail.com>
+Date:   Sun Oct 6 18:15:07 2019 -0400
+
+    update edge processing code
+
+[33mcommit 7c6c6483acb4e7566f988c41bdea9528a4f8bba0[m
+Author: Bilal Khan <bk@tinymanager.com>
+Date:   Fri Oct 4 13:08:48 2019 -0500
+
+    Add colab badges to README
+
+[33mcommit 0cdc99326be42cac7756fd8a687f6b6dac2524a4[m
+Author: bkkaggle <bk@tinymanager.com>
+Date:   Fri Oct 4 13:02:57 2019 -0500
+
+    Add Pix2Pix colab notebook
+
+[33mcommit b90e1f0b76ebf95d4e7489493feaa5b65be67731[m
+Author: bkkaggle <bk@tinymanager.com>
+Date:   Fri Oct 4 13:02:16 2019 -0500
+
+    Add CycleGAN colab notebook
+
+[33mcommit 43521b0e670f5421487d8aaf3675786e177c72e6[m
+Author: Jun-Yan Zhu <junyanz@users.noreply.github.com>
+Date:   Sat Sep 7 14:25:00 2019 -0400
+
+    Update README.md
+
+[33mcommit 08af6e49389fe35a0d1c97f8e3b0b68df3535d58[m
+Author: Jun-Yan Zh
